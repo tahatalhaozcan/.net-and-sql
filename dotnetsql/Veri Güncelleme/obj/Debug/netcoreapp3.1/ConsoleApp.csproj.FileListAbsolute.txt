@@ -1,0 +1,588 @@
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\sadikturan\Desktop\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\sadikturan\Desktop\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\sadikturan\Desktop\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\sadikturan\Desktop\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\sadikturan\Desktop\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\sadikturan\Desktop\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\UygulamaClass\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\UygulamaClass\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\UygulamaClass\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\UygulamaClass\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\UygulamaClass\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\UygulamaClass\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\UygulamaClass\obj\Debug\netcoreapp3.1\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\UygulamaClass\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\UygulamaClass\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\UygulamaClass\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\UygulamaClass\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\UygulamaClass\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\UygulamaClass\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Metodlar\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Metodlar\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Metodlar\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Metodlar\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Metodlar\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Metodlar\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Metodlar\obj\Debug\netcoreapp3.1\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Metodlar\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Metodlar\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Metodlar\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Metodlar\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Metodlar\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Metodlar\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\MetodParametreler\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\MetodParametreler\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\MetodParametreler\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\MetodParametreler\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\MetodParametreler\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\MetodParametreler\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\MetodParametreler\obj\Debug\netcoreapp3.1\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\MetodParametreler\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\MetodParametreler\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\MetodParametreler\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\MetodParametreler\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\MetodParametreler\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\MetodParametreler\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Constructor\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Constructor\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Constructor\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Constructor\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Constructor\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Constructor\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Constructor\obj\Debug\netcoreapp3.1\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Constructor\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Constructor\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Constructor\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Constructor\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Constructor\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Constructor\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Properties\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Properties\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Properties\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Properties\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Properties\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Properties\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Properties\obj\Debug\netcoreapp3.1\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Properties\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Properties\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Properties\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Properties\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Properties\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Properties\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\StaticMembers\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\StaticMembers\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\StaticMembers\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\StaticMembers\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\StaticMembers\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\StaticMembers\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\StaticMembers\obj\Debug\netcoreapp3.1\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\StaticMembers\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\StaticMembers\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\StaticMembers\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\StaticMembers\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\StaticMembers\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\StaticMembers\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Kalıtım\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Kalıtım\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Kalıtım\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Kalıtım\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Kalıtım\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Kalıtım\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Kalıtım\obj\Debug\netcoreapp3.1\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Kalıtım\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Kalıtım\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Kalıtım\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Kalıtım\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Kalıtım\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\Kalıtım\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\SoyutSınıflar\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\SoyutSınıflar\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\SoyutSınıflar\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\SoyutSınıflar\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\SoyutSınıflar\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\SoyutSınıflar\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\SoyutSınıflar\obj\Debug\netcoreapp3.1\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\SoyutSınıflar\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\SoyutSınıflar\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\SoyutSınıflar\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\SoyutSınıflar\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\SoyutSınıflar\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\SoyutSınıflar\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\InterFace\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\InterFace\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\InterFace\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\InterFace\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\InterFace\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\InterFace\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\InterFace\obj\Debug\netcoreapp3.1\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\InterFace\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\InterFace\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\InterFace\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\InterFace\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\InterFace\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\veri-tipleri-donusum\Nesne Tabanlı Programlama\InterFace\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\Hata ve Hata Yönetimi\Hata ve Hata Yönetimi\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\Hata ve Hata Yönetimi\Hata ve Hata Yönetimi\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\Hata ve Hata Yönetimi\Hata ve Hata Yönetimi\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\Hata ve Hata Yönetimi\Hata ve Hata Yönetimi\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\Hata ve Hata Yönetimi\Hata ve Hata Yönetimi\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\Hata ve Hata Yönetimi\Hata ve Hata Yönetimi\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\Hata ve Hata Yönetimi\Hata ve Hata Yönetimi\obj\Debug\netcoreapp3.1\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\Hata ve Hata Yönetimi\Hata ve Hata Yönetimi\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\Hata ve Hata Yönetimi\Hata ve Hata Yönetimi\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\Hata ve Hata Yönetimi\Hata ve Hata Yönetimi\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\Hata ve Hata Yönetimi\Hata ve Hata Yönetimi\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\Hata ve Hata Yönetimi\Hata ve Hata Yönetimi\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\Hata ve Hata Yönetimi\Hata ve Hata Yönetimi\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\Hata ve Hata Yönetimi\Hata Fırlatma\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\Hata ve Hata Yönetimi\Hata Fırlatma\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\Hata ve Hata Yönetimi\Hata Fırlatma\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\Hata ve Hata Yönetimi\Hata Fırlatma\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\Hata ve Hata Yönetimi\Hata Fırlatma\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\Hata ve Hata Yönetimi\Hata Fırlatma\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\Hata ve Hata Yönetimi\Hata Fırlatma\obj\Debug\netcoreapp3.1\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\Hata ve Hata Yönetimi\Hata Fırlatma\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\Hata ve Hata Yönetimi\Hata Fırlatma\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\Hata ve Hata Yönetimi\Hata Fırlatma\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\Hata ve Hata Yönetimi\Hata Fırlatma\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\Hata ve Hata Yönetimi\Hata Fırlatma\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnet\Hata ve Hata Yönetimi\Hata Fırlatma\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\obj\Debug\netcoreapp3.1\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.Up2Date
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Hata Fırlatma\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\obj\Debug\netcoreapp3.1\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.Up2Date
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Verilerin Nesne ile taşınması\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\obj\Debug\netcoreapp3.1\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.Up2Date
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Erişim Sınıfının Hazırlanması\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\obj\Debug\netcoreapp3.1\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.Up2Date
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Kritere Göre Ürün Filtreleme\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\obj\Debug\netcoreapp3.1\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.Up2Date
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Scalar Veri İle Çalışma\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\obj\Debug\netcoreapp3.1\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.Up2Date
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Ekleme\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\obj\Debug\netcoreapp3.1\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.Up2Date
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\tahat\OneDrive\Masaüstü\dotnetsql\Veri Güncelleme\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
